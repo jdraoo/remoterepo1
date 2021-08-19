@@ -1,1 +1,5 @@
 Introduction to Version Control Systems
+There are three type of VCS
+Local
+Centralized
+Distributed
